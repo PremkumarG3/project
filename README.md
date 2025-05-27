@@ -162,8 +162,11 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ```
 ## I)Perform ROI from an image:
 
-![Screenshot 2025-05-27 220547](https://github.com/user-attachments/assets/53f8ac6c-64ad-4567-9281-703903b82159)
-![Screenshot 2025-05-27 220555](https://github.com/user-attachments/assets/ff6c61ce-185d-4477-8b82-323967aa21e9)
+![Screenshot 2025-05-27 222910](https://github.com/user-attachments/assets/d2c3f287-d19b-49c3-9647-4713ee11d31f)
+
+![Screenshot 2025-05-27 222917](https://github.com/user-attachments/assets/468e0678-8be2-4093-b525-263a9af9a3c9)
+
+
 
 
 
